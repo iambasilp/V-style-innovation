@@ -1,0 +1,45 @@
+.ftc-instagram-widget {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-content: stretch;
+}
+
+.ftc-instagram-widget a {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    display: block;
+    font-size: 0;
+    border: none;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.ftc-instagram-widget a img {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.ftc-instagram-follow-link {
+    display: block;
+    margin: 20px 0 0 0;
+}
+
+.ftc-instagram-follow-link a {
+    width: 100%;
+}
+
+p.ftc-instagram-follow-link a.ftc-button-follow {
+    background-color: #38c3da;
+    padding: 10px 15px;
+    color: #fff;
+}
